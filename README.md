@@ -28,7 +28,7 @@ This project highlights how nations use energy, how economic factors influence d
 The project uses a multi-table schema ensuring referential integrity:
 
 - **country_3** → Country master  
-- **emission_3** → Emissions by energy type  
+- **emission_3** → Emissions by energy type 
 - **production_3** → Energy production  
 - **consum_3** → Energy consumption  
 - **population_3** → Population data  
