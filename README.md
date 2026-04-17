@@ -21,7 +21,7 @@ This project highlights how nations use energy, how economic factors influence d
 | Tools | MySQL Workbench / VS Code |
 | Domain | Energy, Economics, Sustainability |
 
----
+--- 
 
 ## 🗂️ Database Architecture  
 The project uses a multi-table schema ensuring referential integrity:
