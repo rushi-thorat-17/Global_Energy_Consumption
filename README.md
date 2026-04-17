@@ -12,6 +12,7 @@ This project highlights how nations use energy, how economic factors influence d
 - 🌎 Compared countries on **per-capita, production, and efficiency metrics**  
 - 🔥 Delivered **30+ actionable insights** through SQL analysis  
 
+
 ---
 ## 🛠️ Tech Stack  
 | Component | Details |
