@@ -13,7 +13,6 @@ This project highlights how nations use energy, how economic factors influence d
 - 🔥 Delivered **30+ actionable insights** through SQL analysis  
 
 
-
 ---
 ## 🛠️ Tech Stack  
 | Component | Details |
